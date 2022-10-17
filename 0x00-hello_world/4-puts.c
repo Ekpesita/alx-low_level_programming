@@ -1,5 +1,9 @@
 #include<stdio.h>
-/*Program that displays a text output*/
+/*
+*Program
+*that displays
+*a text output
+*/
 
 int main(void)
 {
